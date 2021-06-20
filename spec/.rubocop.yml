@@ -5,10 +5,6 @@ require: rubocop-rails
 inherit_from:
   - ../.rubocop.yml
 
-StringLiterals:
-  EnforcedStyle: double_quotes
-  Exclude:
-    - './*_helper.rb'
 
 # describe block
 Metrics/BlockLength:
