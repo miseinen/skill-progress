@@ -1,3 +1,3 @@
 ### Project In Progress✏️...
 
-[![Rails tests](https://github.com/miseinen/skill-progress/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/miseinen/skill-progress/actions/workflows/test.yml)
+[![Rails tests](https://github.com/miseinen/skill-progress/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/miseinen/skill-progress/actions/workflows/test.yml) [![Brakeman Scan](https://github.com/miseinen/skill-progress/actions/workflows/brakeman-analysis.yml/badge.svg)](https://github.com/miseinen/skill-progress/actions/workflows/brakeman-analysis.yml)
